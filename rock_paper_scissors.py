@@ -46,4 +46,5 @@ def rockPaperScissors():
     else:
         print("Please input rock, paper or scissors!")
 
+# The game begins!
 rockPaperScissors()
